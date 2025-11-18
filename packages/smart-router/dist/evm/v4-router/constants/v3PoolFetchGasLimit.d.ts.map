@@ -1,0 +1,1 @@
+{"version":3,"file":"v3PoolFetchGasLimit.d.ts","sourceRoot":"","sources":["../../../../evm/v4-router/constants/v3PoolFetchGasLimit.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,qBAAqB,CAAA;AAE7C,KAAK,iBAAiB,GAAG;IACvB,QAAQ,EAAE,MAAM,CAAA;IAChB,kBAAkB,EAAE,MAAM,CAAA;CAC3B,CAAA;AASD,wBAAgB,oBAAoB,CAAC,OAAO,EAAE,OAAO,qBAEpD"}

@@ -1,0 +1,2 @@
+export declare const ADDRESS_ZERO = "0x0000000000000000000000000000000000000000";
+//# sourceMappingURL=constants.d.ts.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"getTradeType.d.ts","sourceRoot":"","sources":["../src/getTradeType.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,4BAA4B,CAAA;AAEtD,OAAO,KAAK,EAAE,YAAY,EAAE,MAAM,SAAS,CAAA;AAE3C,wBAAgB,iBAAiB,CAAC,IAAI,EAAE,MAAM,GAAG,SAAS,GAAG,SAAS,CAErE;AAED,wBAAgB,eAAe,CAAC,SAAS,EAAE,SAAS,GAAG,YAAY,CAOlE"}

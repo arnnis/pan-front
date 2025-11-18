@@ -1,0 +1,1 @@
+{"version":3,"file":"getStableSwapPairs.d.ts","sourceRoot":"","sources":["../../legacy-router/getStableSwapPairs.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,qBAAqB,CAAA;AAM7C,OAAO,EAAE,cAAc,EAAE,MAAM,SAAS,CAAA;AAExC,wBAAsB,kBAAkB,CAAC,OAAO,EAAE,OAAO,GAAG,OAAO,CAAC,cAAc,EAAE,CAAC,CAgCpF"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"getBetterTrade.d.ts","sourceRoot":"","sources":["../../../../evm/v4-router/utils/getBetterTrade.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,kBAAkB,CAAA;AAE5C,OAAO,EAAE,OAAO,EAAE,MAAM,UAAU,CAAA;AAElC,wBAAgB,cAAc,CAC5B,MAAM,CAAC,EAAE,OAAO,CAAC,SAAS,CAAC,EAC3B,MAAM,CAAC,EAAE,OAAO,CAAC,SAAS,CAAC,GAC1B,OAAO,CAAC,SAAS,CAAC,GAAG,SAAS,CAiBhC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"vertice.d.ts","sourceRoot":"","sources":["../../src/graph/vertice.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAsB,MAAM,4BAA4B,CAAA;AAEzE,OAAO,EAAE,OAAO,EAAE,MAAM,UAAU,CAAA;AAElC,wBAAgB,qBAAqB,CAAC,CAAC,EAAE,QAAQ,UAEhD;AAED,wBAAgB,aAAa,CAAC,OAAO,EAAE,OAAO,UAE7C"}

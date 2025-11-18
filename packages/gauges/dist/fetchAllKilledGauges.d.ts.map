@@ -1,0 +1,1 @@
+{"version":3,"file":"fetchAllKilledGauges.d.ts","sourceRoot":"","sources":["../src/fetchAllKilledGauges.ts"],"names":[],"mappings":"AAAA,OAAO,EAAuD,YAAY,EAAE,MAAM,MAAM,CAAA;AAGxF,OAAO,EAAE,SAAS,EAAE,MAAM,SAAS,CAAA;AAEnC,eAAO,MAAM,oBAAoB,WACvB,YAAY,UACZ,SAAS,EAAE,YACT;IACR,WAAW,CAAC,EAAE,MAAM,CAAA;CACrB,KACA,OAAO,CAAC,SAAS,EAAE,CA4BrB,CAAA"}

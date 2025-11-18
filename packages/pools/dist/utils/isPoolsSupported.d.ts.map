@@ -1,0 +1,1 @@
+{"version":3,"file":"isPoolsSupported.d.ts","sourceRoot":"","sources":["../../src/utils/isPoolsSupported.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,qBAAqB,CAAA;AAE7C,OAAO,EACL,gBAAgB,EAEhB,yBAAyB,EAE1B,MAAM,8BAA8B,CAAA;AAErC,wBAAgB,gBAAgB,CAAC,OAAO,EAAE,MAAM,GAAG,OAAO,IAAI,gBAAgB,CAE7E;AAED,wBAAgB,oBAAoB,CAAC,OAAO,CAAC,EAAE,OAAO,GAAG,OAAO,IAAI,yBAAyB,CAE5F"}

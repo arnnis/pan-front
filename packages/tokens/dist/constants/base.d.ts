@@ -1,0 +1,32 @@
+import { ERC20Token } from '@pancakeswap/sdk';
+export declare const baseTokens: {
+    weth: ERC20Token;
+    usdt: ERC20Token;
+    usdc: ERC20Token;
+    cake: ERC20Token;
+    cbETH: ERC20Token;
+    usdbc: ERC20Token;
+    dai: ERC20Token;
+    tbtc: ERC20Token;
+    axlusdc: ERC20Token;
+    wstETH: ERC20Token;
+    usdPlus: ERC20Token;
+    brett: ERC20Token;
+    degen: ERC20Token;
+    aero: ERC20Token;
+    ovn: ERC20Token;
+    zro: ERC20Token;
+    weeth: ERC20Token;
+    miggles: ERC20Token;
+    usdz: ERC20Token;
+    wxusdt: ERC20Token;
+    wif: ERC20Token;
+    dola: ERC20Token;
+    ezEth: ERC20Token;
+    mog: ERC20Token;
+    eUsd: ERC20Token;
+    cbBTC: ERC20Token;
+    lava: ERC20Token;
+    eurc: ERC20Token;
+};
+//# sourceMappingURL=base.d.ts.map
